@@ -1,5 +1,5 @@
 # Computing-Angles-of-a-Triangle
-This program prompts the user to enter 3 points of a triangle with two coordinates and then calculates the angles of the tiangle using the following math method.
+This program prompts the user to enter 3 points of a triangle with two coordinates and then calculates the angles of the triangle using the following math method.
 
 ![Formula](https://user-images.githubusercontent.com/41565191/57440033-7ced6080-725c-11e9-85ae-61da283e7e38.PNG)
 
